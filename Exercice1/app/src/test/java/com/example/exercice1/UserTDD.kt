@@ -8,7 +8,7 @@ import org.junit.Test
 
 private val a = 3
 private val b = 2
-//+ age
+
 class UserTDD {
 
     private lateinit var users : MutableList<User>
